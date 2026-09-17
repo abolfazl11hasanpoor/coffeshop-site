@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Created by venv; see https://docs.python.org/3/library/venv.html
+venv/
+.venv/
+pycache/
+*.py[cod]
+*.sqlite3
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+.coverage
+htmlcov/
+*.sqlite3
+*.postgresql
+.env/
+Thumbs.db
+
+
+
+
